@@ -1,3 +1,42 @@
-Howdy!
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Project 1, Page 2</title>
+<link rel="stylesheet" href="style.css">
+</head>
 
-This is my test for the github project
+<body style="background-image: url('images/gator.jpg');">
+
+<table style='font-family:"Verdana"' width="200" border="0" align="center">
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <td><img src="images/tamucs.jpg" width="500" height="300" alt=""/></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    
+    <tr>
+      <td>&nbsp;</td>
+      <td align="center"><font size="+3" color="#800000"><p>Lauren Crow</p></font>
+			<font size="+3" color="blue">
+			<font size="+3" color="purple"><p>My name is Lauren Crow and I am a junior Technology Management Major with minors in Business and Cybersecurity.  The Technology Management degree is a bachelor’s in science through the College of Engineering that helps students gain integrated knowledge of human development, management, and technology competencies within a dynamic rapidly evolving environment.</p></font>
+			<p>Welcome to my oldstyle website.</p></font>
+			
+	  <td>&nbsp;</td>
+    </tr>
+	<tr>
+      <td><img src="images/mydog.jpg" width="223" height="300" alt=""/> <p>This is my doggie.</p> </td>
+		<td>&nbsp;</td>
+      <td><img src="images/android.jpg" width="275" height="300" alt=""/>
+		<p>Android is my passion! </p> </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
